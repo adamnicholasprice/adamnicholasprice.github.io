@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://adamnicholasprice.github.io/adamnicholasprice.github.io/sitemap.xml
+Sitemap: https://adamnicholasprice.github.io/sitemap.xml
