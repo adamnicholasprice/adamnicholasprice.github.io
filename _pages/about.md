@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b> Computational Hydrologis</b>t <br>
+subtitle: <b> Computational Hydrologisy</b> | Ph.D. UCSC | B.S. UIdaho <br>
   <a href='https://nwcasc.uw.edu/'>Northwest Climate Adaption Science Center, University of Washington</a><br>
   <a href='https://www.boisestate.edu/earth/'>Department of Geosciences, Boise State University</a>
 
@@ -12,8 +12,8 @@ profile:
   image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ph.D. Earth Sciences University of California Santa Cruz </p>
-    <p>B.S. Geology (Emp. Hydrogeology) University of Idaho </p>
+#    <p>Ph.D. Earth Sciences University of California Santa Cruz </p>
+#    <p>B.S. Geology (Emp. Hydrogeology) University of Idaho </p>
 
 
 news: false  # includes a list of news items
