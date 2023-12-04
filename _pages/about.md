@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b> Computational Hydrologisy</b> | Ph.D. UCSC | B.S. UIdaho <br>
+subtitle: <b> Computational Hydrologist</b> | Ph.D. UCSC | B.S. UIdaho <br>
   <a href='https://nwcasc.uw.edu/'>Northwest Climate Adaption Science Center, University of Washington</a><br>
   <a href='https://www.boisestate.edu/earth/'>Department of Geosciences, Boise State University</a>
 
