@@ -2,9 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b> Computational Hydrologist</b> | Ph.D. UCSC | B.S. UIdaho <br>
-  <a href='https://nwcasc.uw.edu/'>Northwest Climate Adaption Science Center, University of Washington</a><br>
-  <a href='https://www.boisestate.edu/earth/'>Department of Geosciences, Boise State University</a>
+subtitle: <b> Research Hydrologist</b> | Ph.D. UCSC | B.S. UIdaho <br>
+  <a href='https://research.fs.usda.gov/about/people/adam.price'>U.S. Forest Service, Pacific Northwest Research Station</a><br>
 
 
 profile:
@@ -24,8 +23,7 @@ research: true
 ---
 
 
-I am a computational hydrologist and Climate Adaptation Postdoctoral Fellow with the
-Northwest Climate Adaptation Science Center at the University of Washington and Boise State University.
+I am a research hydrologist with the U.S. Forest Service Pacific Northwest Research Station.
 
 My research seeks to explain hydrological phenomena through the use of analytical mathematics, numerical simulation, statistical inference, and machine learning methods and is at the intersection coproduction of science around these issues.
 
