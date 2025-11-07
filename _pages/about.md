@@ -29,4 +29,4 @@ My research seeks to explain hydrological phenomena through the use of analytica
 
 If you are interested in collaboration, please contact me!
 
-[CV](https://drive.google.com/file/d/1K-PSZ2PwssecUt4t6MMUNIVRpWbYVBLk/view?usp=sharing)
+[Find my CV here](https://drive.google.com/file/d/1K-PSZ2PwssecUt4t6MMUNIVRpWbYVBLk/view?usp=sharing)
