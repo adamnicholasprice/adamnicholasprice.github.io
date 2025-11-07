@@ -27,4 +27,6 @@ I am a research hydrologist with the U.S. Forest Service Pacific Northwest Resea
 
 My research seeks to explain hydrological phenomena through the use of analytical mathematics, numerical simulation, statistical inference, and machine learning methods and is at the intersection coproduction of science around these issues.
 
-If you are interested in collaboration, please contact me !
+If you are interested in collaboration, please contact me!
+
+##[CV](https://drive.google.com/file/d/1K-PSZ2PwssecUt4t6MMUNIVRpWbYVBLk/view?usp=sharing)
