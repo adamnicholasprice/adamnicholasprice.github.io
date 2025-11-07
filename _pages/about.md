@@ -4,6 +4,7 @@ title: About
 permalink: /
 subtitle: <b> Research Hydrologist</b> | Ph.D. UCSC | B.S. UIdaho <br>
   <a href='https://research.fs.usda.gov/about/people/adam.price'>U.S. Forest Service, Pacific Northwest Research Station</a><br>
+   <a href='https://drive.google.com/file/d/1K-PSZ2PwssecUt4t6MMUNIVRpWbYVBLk/view?usp=sharing'>CV</a><br>
 
 
 profile:
@@ -28,5 +29,3 @@ I am a research hydrologist with the U.S. Forest Service Pacific Northwest Resea
 My research seeks to explain hydrological phenomena through the use of analytical mathematics, numerical simulation, statistical inference, and machine learning methods and is at the intersection coproduction of science around these issues.
 
 If you are interested in collaboration, please contact me!
-
-[Find my CV here](https://drive.google.com/file/d/1K-PSZ2PwssecUt4t6MMUNIVRpWbYVBLk/view?usp=sharing)
