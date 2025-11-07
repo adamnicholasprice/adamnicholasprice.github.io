@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /cv/
+permalink: "https://drive.google.com/file/d/1K-PSZ2PwssecUt4t6MMUNIVRpWbYVBLk/view?usp=sharing"
 title: CV
 nav: true
 nav_order: 2
