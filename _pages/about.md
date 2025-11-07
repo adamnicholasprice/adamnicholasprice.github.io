@@ -3,8 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: <b> Research Hydrologist</b> | Ph.D. UCSC | B.S. UIdaho <br>
-  <a href='https://research.fs.usda.gov/about/people/adam.price'>U.S. Forest Service, Pacific Northwest Research Station</a><br>
-   <a href='https://drive.google.com/file/d/1K-PSZ2PwssecUt4t6MMUNIVRpWbYVBLk/view?usp=sharing'>CV</a><br>
+  <a href='https://research.fs.usda.gov/about/people/adam.price'> U.S. Forest Service, Pacific Northwest Research Station </a><br>
+  <a href='https://drive.google.com/file/d/1K-PSZ2PwssecUt4t6MMUNIVRpWbYVBLk/view?usp=sharing'> CV </a><br>
 
 
 profile:
